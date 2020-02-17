@@ -1,0 +1,81 @@
+@media all and (max-width:1203px){
+	.middle-area{
+		width:95%;
+	}
+}
+@media all and (max-width:1030px){
+	.logo-area{
+		width:45%;
+	}
+.login-area{
+		width:55%;
+		float:left;
+	}
+}
+@media all and (max-width:1013px){
+	.middle-area{
+		width:100%;
+	}
+}
+@media all and (max-width:963px){
+	.middle-area{
+		width:100%;
+}
+	.logo-area{
+		width:50%;
+		float:left;
+}
+	.login-area{
+		width:50%;
+		float:left;
+	}
+}
+@media all and (max-width:769px){
+	.logo-area{
+		width:35%;
+		float:left;
+	}
+	.login-area{
+		width:65%;
+		float:left;
+	}
+}
+@media all and (max-width:623px){
+	.form{
+		float:none;
+	}
+	.logo-area{
+		width:100%;
+		float:none;
+}
+	.login-area{
+		width:100%;
+		float:none;
+	}
+	.login-first{
+		float:none;
+}
+	.login-second{
+		float:none;
+}
+	.submit{
+		float:none;
+		display:block
+	}
+	.submit input{
+		float:none;
+	}
+	.login-area input[type="text"],
+	.login-area input[type="password"]{
+		width:100%;
+	}
+	.image-area{
+	float:none;
+	width:100%;
+	margin-left:-15%;
+}
+.signup-area{
+	float:none;
+	width:100%;
+}
+}
